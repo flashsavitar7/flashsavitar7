@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Triumph Edet</h1>
 <h3 align="center">An amazing and talented Frontend/Software Engineer</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="coding" width="315" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
 
